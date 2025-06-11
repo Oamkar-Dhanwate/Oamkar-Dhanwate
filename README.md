@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Uploading f88acab7ffd127b4465659500aa0538f (1).gif…]()
+<p align="center">
+  <img src="https://dribbble.com/shots/1193016-Mountain-Graph-gif/attachments/1193016-Mountain-Graph-gif?mode=media" width="600"/>
+</p>
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
