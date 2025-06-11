@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Uploading f88acab7ffd127b4465659500aa0538f (1).gif…]()
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
