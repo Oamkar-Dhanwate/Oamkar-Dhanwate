@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="C:\Users\Omkar\Desktop\images\original.gif" width="600"/>
+  <img src="https://www.google.com/imgres?q=data%20science%20related%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F31%2F53%2F2d%2F31532d7d378053de3b8bf23c6e7bfae3.gif&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F306104105940170763%2F&docid=sA4Bod8TrmPB3M&tbnid=B8xBIChKGI93KM&vet=12ahUKEwjU9uf3l_CNAxUJRmwGHWvEHMYQM3oECHQQAA..i&w=800&h=600&hcb=2&itg=1&ved=2ahUKEwjU9uf3l_CNAxUJRmwGHWvEHMYQM3oECHQQAA" width="600"/>
 </p>
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
