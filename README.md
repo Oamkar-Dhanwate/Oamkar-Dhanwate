@@ -1,61 +1,105 @@
-<h1 align="center">Hi there 👋, I'm Omkar</h1>
-<h3 align="center">🚀 A Passionate Data Scientist from India</h3>
+<h1 align="center">👋 Hi, I'm Omkar Dhanwate</h1>
+<h3 align="center">Data Scientist | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
- <img src="https://github.com/Agramoflife/Agramoflife/raw/main/f88acab7ffd127b4465659500aa0538f%20(1).gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+intelligent+systems;Exploring+the+AI+frontier" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://github.com/Agramoflife/Agramoflife/raw/main/f88acab7ffd127b4465659500aa0538f%20(1).gif" alt="MasterHead" width="800" style="border-radius:10px;"/>
+</div>
 
 ---
 
-- 🌱 I’m currently learning **Deep Learning** and **Large Language Models (LLMs)**
-- 💼 All my projects are on GitHub: [Oamkar-Dhanwate](https://github.com/Oamkar-Dhanwate?tab=repositories)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/oamkar-dhanwate-69b9b4334)
-- 💬 Ask me about **Python**, **Machine Learning**, **SQL**, **Web Scraping**
-- 📫 Reach me at: **dhanwateoamkar@gmail.com**
+### 🚀 About Me
+
+- 🔭 I'm passionate about **Machine Learning, Deep Learning, and Data Engineering**
+- 🌱 Currently diving deep into **LLMs, Computer Vision, and MLOps**
+- 💡 Love solving complex problems with data-driven approaches
+- 📊 Enjoy creating visualizations that tell compelling data stories
+- 🤝 Open to collaborating on interesting AI/ML projects
 
 ---
 
-### 🌐 Connect with me
+### 🛠 Tech Stack
 
-<p align="left">
-  <a href="mailto:dhanwateoamkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/oamkar-dhanwate-69b9b4334"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Oamkar-Dhanwate"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
-</p>
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+#### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🛠️ Languages & Tools
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40"/>
-</p>
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oamkar-Dhanwate&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oamkar-Dhanwate&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oamkar-Dhanwate&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Oamkar-Dhanwate&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oamkar-Dhanwate&show_icons=true&theme=radical" alt="Omkar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oamkar-Dhanwate&theme=radical" alt="GitHub Streak" />
+  <a href="mailto:dhanwateoamkar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/oamkar-dhanwate-69b9b4334">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Oamkar-Dhanwate">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
+---
+
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [Oamkar-Dhanwate/repository] 
+2. 🚀 Pushed 3 commits to [Oamkar-Dhanwate/repository]
+3. 💪 Opened PR [#2] in [Oamkar-Dhanwate/repository]
+4. 🎨 Created new repository [Oamkar-Dhanwate/awesome-project]
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oamkar-Dhanwate&label=Profile%20views&color=0e75b6&style=flat" alt="Oamkar-Dhanwate" /> 
+</p>
